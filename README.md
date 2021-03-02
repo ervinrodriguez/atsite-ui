@@ -1,3 +1,2 @@
-# atsite-ui
-Created with CodeSandbox
-Strictly for UI only
+# play-react-ui
+Strictly for UI use only
